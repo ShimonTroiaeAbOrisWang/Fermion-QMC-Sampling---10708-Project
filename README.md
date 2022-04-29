@@ -2,7 +2,7 @@
 
 This repository houses the codes of the course project for 10708 Probabilistic Graphical Models, Spring 2022 at Carnegie Mellon University.
 
-The project is jointed done by Hongjian Wang and Andrew Smith.
+The project is jointly done by Hongjian Wang and Andrew Smith.
 
 To reproduce all the experiments in our final report, simply upload the file `10708_project.ipynb` into Google Colab. Please see the code comments and the text blocks for detailed instruction.
 
