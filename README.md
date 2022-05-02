@@ -1,10 +1,12 @@
 # Nota bene (updated May 1 2022):
 
 One important thing was missing from our final report. The "observable" we calculate is the average magnetization
-$$ \mathcal{M}(\phi) =  \int \phi(x) d x.$$
+
+<img src="https://render.githubusercontent.com/render/math?math=\mathcal{M}(\phi) =  \int \phi(x) d x.">
 
 After discretization, it is approximated by
-$$ \frac{1}{L+1}\sum_{x=0}^L \phi(x). $$
+
+<img src="https://render.githubusercontent.com/render/math?math=\mathcal{M}(\phi) = \frac{1}{L \dotplus 1}\sum_{x=0}^L \phi(x).">
 
 
 (We mentioned this in our midway report, but forgot to do so in the final report. We are sorry if this has caused some confusion when our project is being reviewed.)
