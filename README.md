@@ -11,6 +11,9 @@ After discretization, it is approximated by
 
 (We mentioned this in our midway report, but forgot to do so in the final report. We are sorry if this has caused some confusion when our project is being reviewed.)
 
+-----
+There is a typo in our final report. In Section 4.2, the "<img src="https://render.githubusercontent.com/render/math?math=S_{\mathrm{PF}}(\phi, \varepsilon)">" should be changed to "<img src="https://render.githubusercontent.com/render/math?math=S_{\mathrm{PF}}(\phi, \varphi)">".
+
 
 # Fermion QMC Sampling (10708-Project)
 
