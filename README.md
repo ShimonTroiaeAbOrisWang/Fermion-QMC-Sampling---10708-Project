@@ -1,3 +1,15 @@
+# Nota bene (updated May 1 2022):
+
+One important thing was missing from our final report. The "observable" we calculate is the average magnetization
+$$ \mathcal{M}(\phi) =  \int \phi(x) d x.$$
+
+After discretization, it is approximated by
+$$ \frac{1}{L+1}\sum_{x=0}^L \phi(x). $$
+
+
+(We mentioned this in our midway report, but forgot to do so in the final report. We are sorry if this has caused some confusion when our project is being reviewed.)
+
+
 # Fermion QMC Sampling (10708-Project)
 
 This repository houses the codes of the course project for 10708 Probabilistic Graphical Models, Spring 2022 at Carnegie Mellon University.
